@@ -1,4 +1,4 @@
-# Porject-2--Telecom-Customer-Churn-Analysis
+# Project-2--Telecom-Customer-Churn-Analysis
 Project 2- Telecom Customer Churn
 
 •	An analysis of Telecom Customer Churn
